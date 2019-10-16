@@ -1,2 +1,4 @@
-# Node-Red_Portable
- 便携版Node-Red
+# 说明
+便携版Node-Red
+
+不安装到系统环境，一次初始化到U盘后，可以直接用
